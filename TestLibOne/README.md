@@ -1,9 +1,9 @@
-# TestLib
+# HELTestLib
 
-[![CI Status](https://img.shields.io/travis/liuyang1/TestLib.svg?style=flat)](https://travis-ci.org/liuyang1/TestLib)
-[![Version](https://img.shields.io/cocoapods/v/TestLib.svg?style=flat)](https://cocoapods.org/pods/TestLib)
-[![License](https://img.shields.io/cocoapods/l/TestLib.svg?style=flat)](https://cocoapods.org/pods/TestLib)
-[![Platform](https://img.shields.io/cocoapods/p/TestLib.svg?style=flat)](https://cocoapods.org/pods/TestLib)
+[![CI Status](https://img.shields.io/travis/liuyang1/HELTestLib.svg?style=flat)](https://travis-ci.org/liuyang1/HELTestLib)
+[![Version](https://img.shields.io/cocoapods/v/HELTestLib.svg?style=flat)](https://cocoapods.org/pods/HELTestLib)
+[![License](https://img.shields.io/cocoapods/l/HELTestLib.svg?style=flat)](https://cocoapods.org/pods/HELTestLib)
+[![Platform](https://img.shields.io/cocoapods/p/HELTestLib.svg?style=flat)](https://cocoapods.org/pods/HELTestLib)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-TestLib is available through [CocoaPods](https://cocoapods.org). To install
+HELTestLib is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'TestLib'
+pod 'HELTestLib'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ liuyang1, liuyang1.uh@haier.com
 
 ## License
 
-TestLib is available under the MIT license. See the LICENSE file for more info.
+HELTestLib is available under the MIT license. See the LICENSE file for more info.

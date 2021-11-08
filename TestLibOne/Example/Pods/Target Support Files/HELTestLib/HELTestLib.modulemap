@@ -1,0 +1,6 @@
+framework module HELTestLib {
+  umbrella header "HELTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

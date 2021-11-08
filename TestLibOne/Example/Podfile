@@ -2,10 +2,10 @@ use_frameworks!
 
 platform :ios, '9.0'
 
-target 'TestLib_Example' do
-  pod 'TestLib', :path => '../'
+target 'HELTestLib_Example' do
+  pod 'HELTestLib', :path => '../'
 
-  target 'TestLib_Tests' do
+  target 'HELTestLib_Tests' do
     inherit! :search_paths
 
     
