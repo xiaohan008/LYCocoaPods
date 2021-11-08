@@ -1,0 +1,16 @@
+PODS:
+  - HELNotification (0.1.0)
+
+DEPENDENCIES:
+  - HELNotification (from `../`)
+
+EXTERNAL SOURCES:
+  HELNotification:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HELNotification: bf6d7d523cb17121952e81b34799a6647ab4b13b
+
+PODFILE CHECKSUM: 7572f6c34bc2413afaa5ec26f6bafefe7b5b8afd
+
+COCOAPODS: 1.11.2

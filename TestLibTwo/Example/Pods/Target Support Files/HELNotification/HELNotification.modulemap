@@ -1,0 +1,6 @@
+framework module HELNotification {
+  umbrella header "HELNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

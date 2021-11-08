@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HELNotification_Example' do
+  pod 'HELNotification', :path => '../'
+
+  target 'HELNotification_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
