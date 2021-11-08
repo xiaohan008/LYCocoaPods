@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HELTestLib'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'A Test Library for iOS.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'HELTestLib/Classes/**/*'
+  s.source_files = 'TestLibOne/HELTestLib/Classes/**/*'
   
   # s.resource_bundles = {
   #   'HELTestLib' => ['HELTestLib/Assets/*.png']
