@@ -63,7 +63,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		851692045D2AFFF3FFE6E69A /* Pods-TestLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestLib_Tests.release.xcconfig"; path = "Target Support Files/Pods-TestLib_Tests/Pods-TestLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8FCF231EA92B4CE3C80A3B2A /* TestLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TestLib.podspec; path = ../TestLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8FCF231EA92B4CE3C80A3B2A /* HETestLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HETestLib.podspec; path = ../HETestLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9838EC04EA21402469069882 /* Pods-TestLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestLib_Example.debug.xcconfig"; path = "Target Support Files/Pods-TestLib_Example/Pods-TestLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A851F4D87F7779068F613456 /* Pods-TestLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestLib_Example.release.xcconfig"; path = "Target Support Files/Pods-TestLib_Example/Pods-TestLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		FCE123C88D97A4DA59985C95 /* Pods-TestLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestLib_Tests.debug.xcconfig"; path = "Target Support Files/Pods-TestLib_Tests/Pods-TestLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -189,7 +189,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				8FCF231EA92B4CE3C80A3B2A /* TestLib.podspec */,
+				8FCF231EA92B4CE3C80A3B2A /* HETestLib.podspec */,
 				26639BA8DC5D12C343D9F112 /* README.md */,
 				516303A3C7CD4728D05735A7 /* LICENSE */,
 			);
