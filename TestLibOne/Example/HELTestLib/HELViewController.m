@@ -7,6 +7,7 @@
 //
 
 #import "HELViewController.h"
+#import <HELTestLib/LocalNotificationViewController.h>
 
 @interface HELViewController ()
 
@@ -24,6 +25,11 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    LocalNotificationViewController *localNoti = [[LocalNotificationViewController alloc] init];
+    [self.navigationController pushViewController:localNoti animated:YES];
 }
 
 @end

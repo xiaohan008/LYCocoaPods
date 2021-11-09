@@ -25,6 +25,16 @@
     titleLabel.font = [UIFont systemFontOfSize:20];
     titleLabel.textAlignment = NSTextAlignmentCenter;
     [self.view addSubview:titleLabel];
+    
+    UILabel *tipLabel = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 200, 40)];
+    tipLabel.center = CGPointMake(self.view.center.x, self.view.center.y - 100);
+    tipLabel.text = @"新版本0.1.8";
+    tipLabel.textColor = UIColor.grayColor;
+    tipLabel.font = [UIFont systemFontOfSize:20];
+    tipLabel.textAlignment = NSTextAlignmentCenter;
+    [self.view addSubview:tipLabel];
+    
+    
 }
 
 
